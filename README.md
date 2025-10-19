@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ladesai123" alt="ladesai123" /></a> </p>
 
-- 🔭 I’m currently working on **CampusOLX**
+- 🔭 I’m currently working on **www.campusolx.com**
 
 - 🌱 I’m currently learning **DSA and DevOps**
 
